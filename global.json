@@ -6,7 +6,7 @@
 			"tag": "",
 			"name_color": "&f",
 			"chat_color": "&7",
-			"bukkit_perms": [
+			"permissions": [
 				"bukkit.command.plugins",
 				"bukkit.command.tps"
 			]
@@ -17,7 +17,7 @@
 			"tag": "&d✪",
 			"name_color": "&d",
 			"chat_color": "&f",
-			"bukkit_perms": [
+			"permissions": [
 				"cardinal.join.pick"
 			]
 		},
@@ -55,14 +55,12 @@
 			"tag": "&b&lHelper",
 			"name_color": "&b",
 			"chat_color": "&f",
-			"bukkit_perms": [
+			"permissions": [
 				"AAC.notify",
 				"core.punish.kick",
 				"core.punish.mute",
 				"nocheatplus.notify",
-				"nocheatplus.command.notify"
-			],
-			"bungee_perms": [
+				"nocheatplus.command.notify",
 				"bungeecord.command.server",
 				"bungeecord.command.send"
 			]
@@ -73,7 +71,7 @@
 			"tag": "&e&lMod",
 			"name_color": "&e",
 			"chat_color": "&f",
-			"bukkit_perms": [
+			"permissions": [
 				"cardinal.loadmaps",
 				"cardinal.match.cycle",
 				"cardinal.match.setnext",
@@ -88,9 +86,7 @@
 				"minecraft.command.gamemode",
 				"bukkit.command.gamemode",
 				"minecraft.command.teleport",
-				"bukkit.command.teleport"
-			],
-			"bungee_perms": [
+				"bukkit.command.teleport",
 				"bungeecord.command.ip"
 			]
 		},
