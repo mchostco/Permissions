@@ -8,7 +8,9 @@
 			"chat_color": "&7",
 			"permissions": [
 				"bukkit.command.plugins",
-				"bukkit.command.tps"
+				"bukkit.command.tps",
+				"minecraft.command.list",
+				"bukkit.command.list"
 			]
 		},
 		{
