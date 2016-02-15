@@ -1,0 +1,105 @@
+{
+	"ranks": [
+		{
+			"id": "default",
+			"level": 0,
+			"tag": "",
+			"name_color": "&f",
+			"chat_color": "&7",
+			"bukkit_perms": [
+				"bukkit.command.plugins",
+				"bukkit.command.tps"
+			]
+		},
+		{
+			"id": "d1",
+			"level": 1,
+			"tag": "&d✪",
+			"name_color": "&d",
+			"chat_color": "&f",
+			"bukkit_perms": [
+				"cardinal.join.pick"
+			]
+		},
+		{
+			"id": "d2",
+			"level": 2,
+			"tag": "&a✪✪",
+			"name_color": "&a",
+			"chat_color": "&f"
+		},
+		{
+			"id": "d3",
+			"level": 3,
+			"tag": "&6✪✪✪",
+			"name_color": "&6",
+			"chat_color": "&f"
+		},
+		{
+			"id": "youtube",
+			"level": 4,
+			"tag": "&d&lYouTube",
+			"name_color": "&d",
+			"chat_color": "&f"
+		},
+		{
+			"id": "twitch",
+			"level": 5,
+			"tag": "&b&lTwitch",
+			"name_color": "&b",
+			"chat_color": "&f"
+		},
+		{
+			"id": "helper",
+			"level": 6,
+			"tag": "&b&lHelper",
+			"name_color": "&b",
+			"chat_color": "&f",
+			"bukkit_perms": [
+				"AAC.notify",
+				"core.punish.kick",
+				"core.punish.mute",
+				"nocheatplus.notify",
+				"nocheatplus.command.notify"
+			]
+		},
+		{
+			"id": "mod",
+			"level": 7,
+			"tag": "&e&lMod",
+			"name_color": "&e",
+			"chat_color": "&f",
+			"bukkit_perms": [
+				"cardinal.loadmaps",
+				"cardinal.match.cycle",
+				"cardinal.match.setnext",
+				"cardinal.cancel",
+				"cardinal.match.start",
+				"cardinal.match.end",
+				"cardinal.whitelist.*",
+				"worldedit.*",
+				"core.punish.*",
+				"nocheat.admin",
+				"AAC.admin",
+				"minecraft.command.gamemode",
+				"bukkit.command.gamemode",
+				"minecraft.command.teleport",
+				"bukkit.command.teleport"
+			]
+		},
+		{
+			"id": "srmod",
+			"level": 8,
+			"tag": "&e&lSr.Mod",
+			"name_color": "&e",
+			"chat_color": "&f"
+		},
+		{
+			"id": "admin",
+			"level": 9,
+			"tag": "&c&lAdmin",
+			"name_color": "&c",
+			"chat_color": "&f"
+		},
+	]
+}
