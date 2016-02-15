@@ -61,6 +61,10 @@
 				"core.punish.mute",
 				"nocheatplus.notify",
 				"nocheatplus.command.notify"
+			],
+			"bungee_perms": [
+				"bungeecord.command.server",
+				"bungeecord.command.send"
 			]
 		},
 		{
@@ -85,6 +89,9 @@
 				"bukkit.command.gamemode",
 				"minecraft.command.teleport",
 				"bukkit.command.teleport"
+			],
+			"bungee_perms": [
+				"bungeecord.command.ip"
 			]
 		},
 		{
