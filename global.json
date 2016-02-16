@@ -89,7 +89,8 @@
 				"bukkit.command.gamemode",
 				"minecraft.command.teleport",
 				"bukkit.command.teleport",
-				"bungeecord.command.ip"
+				"bungeecord.command.ip",
+				"worldguard.*"
 			]
 		},
 		{
