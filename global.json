@@ -81,6 +81,7 @@
 				"cardinal.match.start",
 				"cardinal.match.end",
 				"cardinal.whitelist.*",
+				"cardinal.teleport",
 				"worldedit.*",
 				"core.punish.*",
 				"nocheat.admin",
