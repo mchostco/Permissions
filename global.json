@@ -91,7 +91,9 @@
 				"minecraft.command.teleport",
 				"bukkit.command.teleport",
 				"bungeecord.command.ip",
-				"worldguard.*"
+				"worldguard.*",
+				"minecraft.command.time",
+				"bukkit.command.time"
 			]
 		},
 		{
