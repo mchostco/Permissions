@@ -95,7 +95,9 @@
 				"minecraft.command.time",
 				"bukkit.command.time",
 				"minecraft.command.gamerule",
-				"bukkit.command.gamerule"
+				"bukkit.command.gamerule",
+				"minecraft.command.toggledownfall",
+				"bukkit.command.toggledownfall"
 			]
 		},
 		{
