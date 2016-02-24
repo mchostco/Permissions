@@ -93,7 +93,9 @@
 				"bungeecord.command.ip",
 				"worldguard.*",
 				"minecraft.command.time",
-				"bukkit.command.time"
+				"bukkit.command.time",
+				"minecraft.command.gamerule",
+				"bukkit.command.gamerule"
 			]
 		},
 		{
