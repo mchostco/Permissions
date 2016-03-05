@@ -16,8 +16,8 @@
 		{
 			"id": "d1",
 			"level": 1,
-			"tag": "&d[VIP]",
-			"name_color": "&d",
+			"tag": "&a[VIP]",
+			"name_color": "&a",
 			"chat_color": "&f",
 			"permissions": [
 				"cardinal.join.pick"
@@ -26,8 +26,8 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&d[VIP&6+&d]",
-			"name_color": "&d",
+			"tag": "&a[VIP&6+&a]",
+			"name_color": "&a",
 			"chat_color": "&f"
 		},
 		{
