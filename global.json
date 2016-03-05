@@ -54,7 +54,7 @@
 		{
 			"id": "helper",
 			"level": 6,
-			"tag": "&b[HELPER]",
+			"tag": "&b&lHELPER",
 			"name_color": "&b",
 			"chat_color": "&f",
 			"permissions": [
