@@ -54,8 +54,8 @@
 		{
 			"id": "helper",
 			"level": 6,
-			"tag": "&a[HELPER]",
-			"name_color": "&b",
+			"tag": "&1[HELPER]",
+			"name_color": "&1",
 			"chat_color": "&f",
 			"permissions": [
 				"AAC.notify",
