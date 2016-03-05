@@ -70,7 +70,7 @@
 		{
 			"id": "mod",
 			"level": 7,
-			"tag": "&e[MOD]",
+			"tag": "&e&lMOD",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -103,14 +103,14 @@
 		{
 			"id": "srmod",
 			"level": 8,
-			"tag": "&e[SR.MOD]",
+			"tag": "&e&lSR.MOD",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "admin",
 			"level": 9,
-			"tag": "&c[ADMIN]",
+			"tag": "&c&lADMIN",
 			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
