@@ -27,14 +27,14 @@
 			"id": "d2",
 			"level": 2,
 			"tag": "&d[VIP&6+&d]",
-			"name_color": "&a",
+			"name_color": "&d",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
 			"tag": "&b[PRO]",
-			"name_color": "&6",
+			"name_color": "&b",
 			"chat_color": "&f"
 		},
 		{
