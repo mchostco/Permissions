@@ -47,8 +47,8 @@
 		{
 			"id": "twitch",
 			"level": 5,
-			"tag": "&4&lYT",
-			"name_color": "&4",
+			"tag": "&c&lTWITCH",
+			"name_color": "&c",
 			"chat_color": "&f"
 		},
 		{
