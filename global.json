@@ -101,6 +101,13 @@
 			]
 		},
 		{
+			"id": "dank",
+			"level": 5,
+			"tag": "&d&lD&a&lA&e&lN&b&lK",
+			"name_color": "&9",
+			"chat_color": "&f"
+		},
+		{
 			"id": "srmod",
 			"level": 8,
 			"tag": "&e&lSR.MOD",
