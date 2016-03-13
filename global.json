@@ -102,21 +102,21 @@
 		},
 		{
 			"id": "dank",
-			"level": 5,
+			"level": 8,
 			"tag": "&d&lD&a&lA&e&lN&b&lK",
 			"name_color": "&9",
 			"chat_color": "&f"
 		},
 		{
 			"id": "srmod",
-			"level": 8,
+			"level": 9,
 			"tag": "&e&lSR.MOD",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "admin",
-			"level": 9,
+			"level": 100,
 			"tag": "&c&lADMIN",
 			"name_color": "&c",
 			"chat_color": "&f",
