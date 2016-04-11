@@ -117,8 +117,8 @@
 		{
 			"id": "admin",
 			"level": 100,
-			"tag": "&4❖",
-			"name_color": "&4",
+			"tag": "&c❖",
+			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
 				"bukkit.command.*",
