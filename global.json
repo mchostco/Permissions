@@ -40,15 +40,15 @@
 		{
 			"id": "youtube",
 			"level": 4,
-			"tag": "&cYT",
+			"tag": "&c▶",
 			"name_color": "&c",
 			"chat_color": "&f"
 		},
 		{
 			"id": "twitch",
 			"level": 5,
-			"tag": "&bTWITCH",
-			"name_color": "&c",
+			"tag": "&5▶",
+			"name_color": "&5",
 			"chat_color": "&f"
 		},
 		{
