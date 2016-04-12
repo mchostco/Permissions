@@ -16,7 +16,7 @@
 		{
 			"id": "d1",
 			"level": 1,
-			"tag": "&d*",
+			"tag": "&d$",
 			"name_color": "&d",
 			"chat_color": "&f",
 			"permissions": [
@@ -26,28 +26,28 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&a**",
+			"tag": "&a$$",
 			"name_color": "&a",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&6***",
+			"tag": "&6$$$",
 			"name_color": "&6",
 			"chat_color": "&f"
 		},
 		{
 			"id": "youtube",
 			"level": 4,
-			"tag": "&cYT ",
+			"tag": "&bYT",
 			"name_color": "&c",
 			"chat_color": "&f"
 		},
 		{
 			"id": "twitch",
 			"level": 5,
-			"tag": "&cTWITCH ",
+			"tag": "&bTWITCH",
 			"name_color": "&c",
 			"chat_color": "&f"
 		},
