@@ -16,8 +16,8 @@
 		{
 			"id": "d1",
 			"level": 1,
-			"tag": "&d$",
-			"name_color": "&d",
+			"tag": "&d*",
+			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
 				"cardinal.join.pick"
@@ -26,36 +26,36 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&a$$",
-			"name_color": "&a",
+			"tag": "&a**",
+			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&6$$$",
-			"name_color": "&6",
+			"tag": "&6***",
+			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "youtube",
 			"level": 4,
 			"tag": "&c▶",
-			"name_color": "&c",
+			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "twitch",
 			"level": 5,
 			"tag": "&5▶",
-			"name_color": "&5",
+			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "helper",
 			"level": 6,
 			"tag": "&b❖",
-			"name_color": "&b",
+			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
 				"AAC.notify",
@@ -104,7 +104,7 @@
 			"id": "dank",
 			"level": 8,
 			"tag": "&d&lD&a&lA&e&lN&b&lK",
-			"name_color": "&b",
+			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
@@ -118,7 +118,7 @@
 			"id": "admin",
 			"level": 100,
 			"tag": "&c❖",
-			"name_color": "&c",
+			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
 				"bukkit.command.*",
