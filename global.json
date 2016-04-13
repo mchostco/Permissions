@@ -54,7 +54,7 @@
 		{
 			"id": "helper",
 			"level": 6,
-			"tag": "&b❖",
+			"tag": "&2❖",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -70,7 +70,7 @@
 		{
 			"id": "mod",
 			"level": 7,
-			"tag": "&e❖",
+			"tag": "&d❖",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
