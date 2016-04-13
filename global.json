@@ -17,7 +17,7 @@
 			"id": "d1",
 			"level": 1,
 			"tag": "&e*",
-			"name_color": "ae",
+			"name_color": "&a",
 			"chat_color": "&f",
 			"permissions": [
 				"cardinal.join.pick"
@@ -54,7 +54,7 @@
 		{
 			"id": "helper",
 			"level": 6,
-			"tag": "&2&lJR.MOD",
+			"tag": "&2&lJR.MOD ",
 			"name_color": "&2",
 			"chat_color": "&f",
 			"permissions": [
@@ -70,7 +70,7 @@
 		{
 			"id": "mod",
 			"level": 7,
-			"tag": "&e&lMOD",
+			"tag": "&e&lMOD ",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -103,14 +103,14 @@
 		{
 			"id": "dank",
 			"level": 8,
-			"tag": "&9&kkk&f",
-			"name_color": "&e",
+			"tag": "&9&kkk&F",
+			"name_color": "&a",
 			"chat_color": "&f"
 		},
 		{
 			"id": "admin",
 			"level": 100,
-			"tag": "&c&lADMIN",
+			"tag": "&c&lADMIN ",
 			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
