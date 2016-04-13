@@ -4,7 +4,7 @@
 			"id": "default",
 			"level": 0,
 			"tag": "",
-			"name_color": "&f",
+			"name_color": "&e",
 			"chat_color": "&7",
 			"permissions": [
 				"bukkit.command.plugins",
