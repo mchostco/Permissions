@@ -4,7 +4,7 @@
 			"id": "default",
 			"level": 0,
 			"tag": "",
-			"name_color": "&e",
+			"name_color": "&a",
 			"chat_color": "&7",
 			"permissions": [
 				"bukkit.command.plugins",
@@ -26,15 +26,15 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&a**",
-			"name_color": "&e",
+			"tag": "&e❋",
+			"name_color": "&6",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&6***",
-			"name_color": "&e",
+			"tag": "&3✵",
+			"name_color": "&b",
 			"chat_color": "&f"
 		},
 		{
@@ -54,8 +54,8 @@
 		{
 			"id": "helper",
 			"level": 6,
-			"tag": "&2❖",
-			"name_color": "&e",
+			"tag": "&2&lJR.MOD",
+			"name_color": "&2",
 			"chat_color": "&f",
 			"permissions": [
 				"AAC.notify",
@@ -70,7 +70,7 @@
 		{
 			"id": "mod",
 			"level": 7,
-			"tag": "&d❖",
+			"tag": "&e&lMOD",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -108,17 +108,10 @@
 			"chat_color": "&f"
 		},
 		{
-			"id": "srmod",
-			"level": 9,
-			"tag": "&e❖",
-			"name_color": "&e",
-			"chat_color": "&f"
-		},
-		{
 			"id": "admin",
 			"level": 100,
-			"tag": "&c❖",
-			"name_color": "&e",
+			"tag": "&c&lADMIN",
+			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
 				"bukkit.command.*",
