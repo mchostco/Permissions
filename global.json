@@ -16,8 +16,8 @@
 		{
 			"id": "d1",
 			"level": 1,
-			"tag": "&d*",
-			"name_color": "&e",
+			"tag": "&e*",
+			"name_color": "ae",
 			"chat_color": "&f",
 			"permissions": [
 				"cardinal.join.pick"
