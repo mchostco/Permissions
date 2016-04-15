@@ -26,15 +26,15 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&3✵",
-			"name_color": "&b",
+			"tag": "&6✵",
+			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&e❋",
-			"name_color": "&6",
+			"tag": "&3❋",
+			"name_color": "&b",
 			"chat_color": "&f"
 		},
 		{
