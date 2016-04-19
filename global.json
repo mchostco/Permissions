@@ -47,13 +47,20 @@
 		{
 			"id": "twitch",
 			"level": 5,
-			"tag": "&5▶",
+			"tag": "&cTwitch ",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
-			"id": "helper",
+			"id": "dank",
 			"level": 6,
+			"tag": "&d&kkk&F",
+			"name_color": "&d",
+			"chat_color": "&f"
+		},
+		{
+			"id": "helper",
+			"level": 7,
 			"tag": "&2&lJR.MOD",
 			"name_color": "&2",
 			"chat_color": "&f",
@@ -69,7 +76,7 @@
 		},
 		{
 			"id": "mod",
-			"level": 7,
+			"level": 8,
 			"tag": "&e&lMOD",
 			"name_color": "&e",
 			"chat_color": "&f",
@@ -99,13 +106,6 @@
 				"minecraft.command.toggledownfall",
 				"bukkit.command.toggledownfall"
 			]
-		},
-		{
-			"id": "dank",
-			"level": 8,
-			"tag": "&9&kkk&F",
-			"name_color": "&a",
-			"chat_color": "&f"
 		},
 		{
 			"id": "admin",
