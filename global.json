@@ -101,7 +101,7 @@
 				"worldguard.*",
 				"minecraft.command.time",
 				"minecraft.command.tp",
-				"bukkit.command.tp"
+				"bukkit.command.tp",
 				"bukkit.command.time",
 				"minecraft.command.gamerule",
 				"bukkit.command.gamerule",
