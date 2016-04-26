@@ -108,6 +108,14 @@
 			]
 		},
 		{
+			"id": "srmod",
+			"level": 9,
+			"tag": "&e&lSR.MOD",
+			"name_color": "&e",
+			"chat_color": "&f",
+			"permissions": []
+		},
+		{
 			"id": "admin",
 			"level": 100,
 			"tag": "&c&lADMIN",
