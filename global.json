@@ -112,8 +112,7 @@
 			"level": 9,
 			"tag": "&e&lSR.MOD",
 			"name_color": "&e",
-			"chat_color": "&f",
-			"permissions": []
+			"chat_color": "&f"
 		},
 		{
 			"id": "admin",
