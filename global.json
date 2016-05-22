@@ -114,7 +114,10 @@
 			"level": 9,
 			"tag": "&e&lSR.MOD",
 			"name_color": "&e",
-			"chat_color": "&f"
+			"chat_color": "&f",
+			"permissions": [
+				"core.setrank"
+			]
 		},
 		{
 			"id": "admin",
