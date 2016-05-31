@@ -71,7 +71,8 @@
 				"nocheatplus.notify",
 				"nocheatplus.command.notify",
 				"bungeecord.command.server",
-				"bungeecord.command.send"
+				"bungeecord.command.send",
+				"lobby.reset"
 			]
 		},
 		{
