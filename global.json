@@ -16,8 +16,8 @@
 		{
 			"id": "d1",
 			"level": 1,
-			"tag": "&2✴",
-			"name_color": "&a",
+			"tag": "&b[$] ",
+			"name_color": "&b",
 			"chat_color": "&f",
 			"permissions": [
 				"cardinal.join.pick"
@@ -26,28 +26,28 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&e✵",
-			"name_color": "&6",
+			"tag": "&d[$$] ",
+			"name_color": "&d",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&b❋",
-			"name_color": "&b",
+			"tag": "&6[$$$] ",
+			"name_color": "&6",
 			"chat_color": "&f"
 		},
 		{
 			"id": "youtube",
 			"level": 4,
-			"tag": "&cYoutube ",
+			"tag": "&c[Youtube] ",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "twitch",
 			"level": 5,
-			"tag": "&cTwitch ",
+			"tag": "&d[Twitch] ",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
@@ -61,8 +61,8 @@
 		{
 			"id": "helper",
 			"level": 7,
-			"tag": "&2&lJR.MOD",
-			"name_color": "&2",
+			"tag": "&9[Jr.Mod] ",
+			"name_color": "&9",
 			"chat_color": "&f",
 			"permissions": [
 				"AAC.notify",
@@ -78,7 +78,7 @@
 		{
 			"id": "mod",
 			"level": 8,
-			"tag": "&e&lMOD",
+			"tag": "&e[Mod] ",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -113,7 +113,7 @@
 		{
 			"id": "srmod",
 			"level": 9,
-			"tag": "&e&lSR.MOD",
+			"tag": "&e[Sr.Mod] ",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -124,7 +124,7 @@
 		{
 			"id": "admin",
 			"level": 100,
-			"tag": "&c&lADMIN",
+			"tag": "&c[Admin] ",
 			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
