@@ -61,7 +61,7 @@
 		{
 			"id": "helper",
 			"level": 7,
-			"tag": "&9[Jr.Mod] ",
+			"tag": "&9[Jr.Mod]",
 			"name_color": "&9",
 			"chat_color": "&f",
 			"permissions": [
@@ -78,7 +78,7 @@
 		{
 			"id": "mod",
 			"level": 8,
-			"tag": "&e[Mod] ",
+			"tag": "&e[Mod]",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -113,7 +113,7 @@
 		{
 			"id": "srmod",
 			"level": 9,
-			"tag": "&e[Sr.Mod] ",
+			"tag": "&e[Sr.Mod]",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -124,7 +124,7 @@
 		{
 			"id": "admin",
 			"level": 100,
-			"tag": "&c[Admin] ",
+			"tag": "&c[Admin]",
 			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
