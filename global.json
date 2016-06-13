@@ -38,6 +38,13 @@
 			"chat_color": "&f"
 		},
 		{
+			"id": "d4",
+			"level": 3,
+			"tag": "&a[$$$$] ",
+			"name_color": "&a",
+			"chat_color": "&f"
+		},
+		{
 			"id": "youtube",
 			"level": 4,
 			"tag": "&c[Youtube] ",
