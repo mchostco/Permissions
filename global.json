@@ -80,7 +80,8 @@
 				"bungeecord.command.server",
 				"bungeecord.command.send",
 				"lobby.reset",
-				"punish.use"
+				"punish.use",
+				"staff.chat"
 			]
 		},
 		{
