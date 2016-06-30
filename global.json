@@ -67,10 +67,10 @@
 			"chat_color": "&f"
 		},
 		{
-			"id": "helper",
+			"id": "mod",
 			"level": 8,
-			"tag": "&9[Jr.Mod]",
-			"name_color": "&9",
+			"tag": "&e[Mod]",
+			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
 				"AAC.notify",
@@ -82,16 +82,7 @@
 				"bungeecord.command.send",
 				"lobby.reset",
 				"punish.use",
-				"staff.chat"
-			]
-		},
-		{
-			"id": "mod",
-			"level": 9,
-			"tag": "&e[Mod]",
-			"name_color": "&e",
-			"chat_color": "&f",
-			"permissions": [
+				"staff.chat",
 				"cardinal.loadmaps",
 				"cardinal.match.cycle",
 				"cardinal.match.setnext",
@@ -118,17 +109,6 @@
 				"bukkit.command.gamerule",
 				"minecraft.command.toggledownfall",
 				"bukkit.command.toggledownfall"
-			]
-		},
-		{
-			"id": "srmod",
-			"level": 10,
-			"tag": "&e[Sr.Mod]",
-			"name_color": "&e",
-			"chat_color": "&f",
-			"permissions": [
-				"core.setrank",
-				"pservers.set"
 			]
 		},
 		{
