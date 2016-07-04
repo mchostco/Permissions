@@ -120,7 +120,11 @@
 			"permissions": [
 				"bukkit.command.*",
 				"minecraft.command.*",
-				"bungeecord.command.*"	
+				"bungeecord.command.*",
+				"pservers.set",
+				"cloud.checkip",
+				"core.setrank",
+				"cloud.setrank"
 			]
 		}
 	]
