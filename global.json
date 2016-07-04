@@ -124,7 +124,8 @@
 				"pservers.set",
 				"cloud.checkip",
 				"core.setrank",
-				"cloud.setrank"
+				"cloud.setrank",
+				"NoRestartServerManager.Reload"
 			]
 		}
 	]
