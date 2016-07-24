@@ -69,7 +69,7 @@
 		{
 			"id": "mod",
 			"level": 8,
-			"tag": "&e[Mod]",
+			"tag": "&e[Mod] ",
 			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
@@ -114,7 +114,7 @@
 		{
 			"id": "admin",
 			"level": 100,
-			"tag": "&c[Admin]",
+			"tag": "&c[Admin] ",
 			"name_color": "&c",
 			"chat_color": "&f",
 			"permissions": [
