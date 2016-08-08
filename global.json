@@ -95,6 +95,8 @@
 				"core.punish.*",
 				"nocheat.admin",
 				"AAC.admin",
+				"AAC.*",
+				"AAC.unban",
 				"minecraft.command.gamemode",
 				"bukkit.command.gamemode",
 				"minecraft.command.teleport",
