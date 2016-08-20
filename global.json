@@ -114,6 +114,16 @@
 			]
 		},
 		{
+			"id": "srmod",
+			"level": 9,
+			"tag": "&e[Sr.Mod] ",
+			"name_color": "&c",
+			"chat_color": "&f",
+			"permissions": [
+				"bukkit.command.*"
+			]
+		},
+		{
 			"id": "admin",
 			"level": 100,
 			"tag": "&c[Admin] ",
