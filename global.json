@@ -67,8 +67,15 @@
 			"chat_color": "&f"
 		},
 		{
-			"id": "mod",
+			"id": "bt",
 			"level": 8,
+			"tag": "&9[BT] ",
+			"name_color": "&9",
+			"chat_color": "&f"
+		},
+		{
+			"id": "mod",
+			"level": 9,
 			"tag": "&e[Mod] ",
 			"name_color": "&e",
 			"chat_color": "&f",
@@ -115,7 +122,7 @@
 		},
 		{
 			"id": "srmod",
-			"level": 9,
+			"level": 10,
 			"tag": "&e[Sr.Mod] ",
 			"name_color": "&c",
 			"chat_color": "&f",
