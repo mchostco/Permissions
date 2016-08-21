@@ -48,14 +48,14 @@
 		{
 			"id": "youtube",
 			"level": 5,
-			"tag": "&c[Youtube] ",
+			"tag": "&d&lYoutube ",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
 		{
 			"id": "twitch",
 			"level": 6,
-			"tag": "&d[Twitch] ",
+			"tag": "&d&lTwitch ",
 			"name_color": "&e",
 			"chat_color": "&f"
 		},
