@@ -27,21 +27,21 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&6&lTIER 2",
+			"tag": "&6&lTIER 2 ",
 			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&a&lTIER 3",
+			"tag": "&a&lTIER 3 ",
 			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d4",
 			"level": 4,
-			"tag": "&b&lTIER 4",
+			"tag": "&b&lTIER 4 ",
 			"name_color": "&f",
 			"chat_color": "&f"
 		},
