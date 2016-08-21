@@ -124,7 +124,7 @@
 			"id": "srmod",
 			"level": 10,
 			"tag": "&e[SR.MOD] ",
-			"name_color": "&c",
+			"name_color": "&e",
 			"chat_color": "&f",
 			"permissions": [
 				"bukkit.command.*"
