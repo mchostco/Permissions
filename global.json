@@ -17,7 +17,7 @@
 			"id": "d1",
 			"level": 1,
 			"tag": "&7&l*",
-			"name_color": "&b",
+			"name_color": "&f",
 			"chat_color": "&f",
 			"permissions": [
 				"cardinal.join.pick",
@@ -28,21 +28,21 @@
 			"id": "d2",
 			"level": 2,
 			"tag": "&6&l*",
-			"name_color": "&d",
+			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
 			"tag": "&a&l*",
-			"name_color": "&6",
+			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d4",
 			"level": 4,
 			"tag": "&b&l*",
-			"name_color": "&a",
+			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
@@ -70,7 +70,7 @@
 			"id": "bt",
 			"level": 8,
 			"tag": "&2&lBT ",
-			"name_color": "&9",
+			"name_color": "&2",
 			"chat_color": "&f"
 		},
 		{
