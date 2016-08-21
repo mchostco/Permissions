@@ -16,7 +16,7 @@
 		{
 			"id": "d1",
 			"level": 1,
-			"tag": "&7&l*",
+			"tag": "&7&lTIER 1 ",
 			"name_color": "&f",
 			"chat_color": "&f",
 			"permissions": [
@@ -27,21 +27,21 @@
 		{
 			"id": "d2",
 			"level": 2,
-			"tag": "&6&l*",
+			"tag": "&6&lTIER 2",
 			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d3",
 			"level": 3,
-			"tag": "&a&l*",
+			"tag": "&a&lTIER 3",
 			"name_color": "&f",
 			"chat_color": "&f"
 		},
 		{
 			"id": "d4",
 			"level": 4,
-			"tag": "&b&l*",
+			"tag": "&b&lTIER 4",
 			"name_color": "&f",
 			"chat_color": "&f"
 		},
