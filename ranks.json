@@ -36,32 +36,32 @@
 			"name": "Gold Plan",
 			"flair": "&6*",
 			"web_display": true,
-			"staff": false,
+			"staff": false
 		},
 		{
 			"id": "d4",
 			"name": "Diamond Plan",
 			"flair": "&b*",
 			"web_display": true,
-			"staff": false,
+			"staff": false
 		},
 		{
 			"id": "famous",
 			"name": "Famous",
 			"flair": "&d❋",
 			"web_display": true,
-			"staff": false,
+			"staff": false
 		},
 		{
 			"id": "bt",
 			"name": "Build Team",
 			"flair": "&9❖",
 			"web_display": true,
-			"staff": true,
+			"staff": true
 		},
 		{
 			"id": "mod",
-		  "name": "Moderator",
+		  	"name": "Moderator",
 			"flair": "&6❖",
 			"web_display": true,
 			"staff": true,
