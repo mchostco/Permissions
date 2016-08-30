@@ -50,21 +50,24 @@
 			"name": "Famous",
 			"flair": "&d❋",
 			"web_display": true,
-			"staff": false
+			"staff": false,
+			"parent": "d4"
 		},
 		{
 			"id": "bt",
 			"name": "Build Team",
-			"flair": "&9❖",
+			"flair": "&3❖",
 			"web_display": true,
-			"staff": true
+			"staff": true,
+			"parent": "d4"
 		},
 		{
 			"id": "mod",
 		  	"name": "Moderator",
-			"flair": "&6❖",
+			"flair": "&9❖",
 			"web_display": true,
 			"staff": true,
+			"parent": "bt",
 			"permissions": [
 				"AAC.notify",
 				"core.punish.kick",
@@ -109,9 +112,10 @@
 		{
 			"id": "srmod",
 			"name": "Senior Moderator",
-			"flair": "&6❖",
+			"flair": "&9❖",
 			"web_display": true,
 			"staff": true,
+			"parent": "mod",
 			"permissions": [
 				"bukkit.command.*"
 			]
@@ -122,6 +126,7 @@
 			"flair": "&c❖",
 			"web_display": true,
 			"staff": true,
+			"parent": "srmod",
 			"permissions": [
 				"bukkit.command.*",
 				"minecraft.command.*",
