@@ -1,0 +1,137 @@
+{
+	"ranks": [
+		{
+			"id": "default",
+			"name": "default",
+			"flair": "",
+			"web_display": false,
+			"staff": false,
+			"permissions": [
+				"bukkit.command.plugins",
+				"bukkit.command.tps",
+				"minecraft.command.list",
+				"bukkit.command.list"
+			]
+		},
+		{
+			"id": "d1",
+			"name": "Grass Plan",
+			"flair": "&a*",
+			"web_display": true,
+			"staff": false,
+			"permissions": [
+				"cardinal.join.pick",
+				"lobby.elytra"
+			]
+		},
+		{
+			"id": "d2",
+			"name": "Redstone Plan",
+			"flair": "&c*",
+			"web_display": true,
+			"staff": false
+		},
+		{
+			"id": "d3",
+			"name": "Gold Plan",
+			"flair": "&6*",
+			"web_display": true,
+			"staff": false,
+		},
+		{
+			"id": "d4",
+			"name": "Diamond Plan",
+			"flair": "&b*",
+			"web_display": true,
+			"staff": false,
+		},
+		{
+			"id": "famous",
+			"name": "Famous",
+			"flair": "&d❋",
+			"web_display": true,
+			"staff": false,
+		},
+		{
+			"id": "bt",
+			"name": "Build Team",
+			"flair": "&9❖",
+			"web_display": true,
+			"staff": true,
+		},
+		{
+			"id": "mod",
+		  "name": "Moderator",
+			"flair": "&6❖",
+			"web_display": true,
+			"staff": true,
+			"permissions": [
+				"AAC.notify",
+				"core.punish.kick",
+				"core.punish.mute",
+				"nocheatplus.notify",
+				"nocheatplus.command.notify",
+				"bungeecord.command.server",
+				"bungeecord.command.send",
+				"lobby.reset",
+				"punish.use",
+				"staff.chat",
+				"cardinal.loadmaps",
+				"cardinal.match.cycle",
+				"cardinal.match.setnext",
+				"cardinal.cancel",
+				"cardinal.match.start",
+				"cardinal.match.end",
+				"cardinal.whitelist.*",
+				"cardinal.teleport",
+				"worldedit.*",
+				"core.punish.*",
+				"nocheat.admin",
+				"AAC.admin",
+				"AAC.*",
+				"AAC.unban",
+				"minecraft.command.gamemode",
+				"bukkit.command.gamemode",
+				"minecraft.command.teleport",
+				"bukkit.command.teleport",
+				"bungeecord.command.ip",
+				"worldguard.*",
+				"minecraft.command.time",
+				"minecraft.command.tp",
+				"bukkit.command.tp",
+				"bukkit.command.time",
+				"minecraft.command.gamerule",
+				"bukkit.command.gamerule",
+				"minecraft.command.toggledownfall",
+				"bukkit.command.toggledownfall"
+			]
+		},
+		{
+			"id": "srmod",
+			"name": "Senior Moderator",
+			"flair": "&6❖",
+			"web_display": true,
+			"staff": true,
+			"permissions": [
+				"bukkit.command.*"
+			]
+		},
+		{
+			"id": "admin",
+			"name": "Administrator",
+			"flair": "&c❖",
+			"web_display": true,
+			"staff": true,
+			"permissions": [
+				"bukkit.command.*",
+				"minecraft.command.*",
+				"bungeecord.command.*",
+				"pservers.set",
+				"cloud.checkip",
+				"core.setrank",
+				"cloud.setrank",
+				"NoRestartServerManager.Reload"
+			]
+		}
+	]
+}
