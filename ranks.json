@@ -16,7 +16,7 @@
 		{
 			"id": "d1",
 			"name": "Grass Plan",
-			"flair": "&a*",
+			"flair": "&a❂",
 			"web_display": true,
 			"staff": false,
 			"permissions": [
@@ -27,21 +27,21 @@
 		{
 			"id": "d2",
 			"name": "Redstone Plan",
-			"flair": "&c*",
+			"flair": "&c❂",
 			"web_display": true,
 			"staff": false
 		},
 		{
 			"id": "d3",
 			"name": "Gold Plan",
-			"flair": "&6*",
+			"flair": "&6❂",
 			"web_display": true,
 			"staff": false
 		},
 		{
 			"id": "d4",
-			"name": "Obsidian Plan",
-			"flair": "&5*",
+			"name": "Diamond Plan",
+			"flair": "&b❂",
 			"web_display": true,
 			"staff": false
 		},
@@ -64,7 +64,7 @@
 		{
 			"id": "mod",
 		  	"name": "Moderator",
-			"flair": "&9❖",
+			"flair": "&e❖",
 			"web_display": true,
 			"staff": true,
 			"parent": "bt",
@@ -112,7 +112,7 @@
 		{
 			"id": "srmod",
 			"name": "Senior Moderator",
-			"flair": "&9❖",
+			"flair": "&6❖",
 			"web_display": true,
 			"staff": true,
 			"parent": "mod",
@@ -123,7 +123,7 @@
 		{
 			"id": "admin",
 			"name": "Administrator",
-			"flair": "&c❖",
+			"flair": "&4❖",
 			"web_display": true,
 			"staff": true,
 			"parent": "srmod",
