@@ -56,7 +56,7 @@
 		{
 			"id": "bt",
 			"name": "Build Team",
-			"flair": "&3❖",
+			"flair": "&9❖",
 			"web_display": true,
 			"staff": true,
 			"parent": "d4"
