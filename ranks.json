@@ -21,6 +21,7 @@
 			"name_color": "&7",
 			"web_display": true,
 			"staff": false,
+			"parent": "default",
 			"permissions": [
 				"cardinal.join.pick",
 				"lobby.elytra"
@@ -33,6 +34,7 @@
 			"name_color": "&7",
 			"web_display": true,
 			"staff": false
+			"parent": "d1",
 		},
 		{
 			"id": "d3",
@@ -41,6 +43,7 @@
 			"name_color": "&7",
 			"web_display": true,
 			"staff": false
+			"parent": "d2",
 		},
 		{
 			"id": "d4",
@@ -49,6 +52,7 @@
 			"name_color": "&7",
 			"web_display": true,
 			"staff": false
+			"parent": "d3",
 		},
 		{
 			"id": "famous",
@@ -77,6 +81,7 @@
 			"staff": true,
 			"parent": "bt",
 			"permissions": [
+				"lobby.setspawn",
 				"AAC.notify",
 				"core.punish.kick",
 				"core.punish.mute",
