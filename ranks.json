@@ -73,6 +73,7 @@
 			"staff": true,
 			"parent": "bt",
 			"permissions": [
+				"lobby.setspawn",
 				"AAC.notify",
 				"core.punish.kick",
 				"core.punish.mute",
