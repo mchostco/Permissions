@@ -4,6 +4,7 @@
 			"id": "default",
 			"name": "default",
 			"flair": "",
+			"name_color": "&7",
 			"web_display": false,
 			"staff": false,
 			"permissions": [
@@ -16,7 +17,8 @@
 		{
 			"id": "d1",
 			"name": "Grass Plan",
-			"flair": "&a❂",
+			"flair": "&a✪ &r",
+			"name_color": "&7",
 			"web_display": true,
 			"staff": false,
 			"permissions": [
@@ -27,36 +29,41 @@
 		{
 			"id": "d2",
 			"name": "Redstone Plan",
-			"flair": "&c❂",
+			"flair": "&c✪ &r",
+			"name_color": "&7",
 			"web_display": true,
 			"staff": false
 		},
 		{
 			"id": "d3",
 			"name": "Gold Plan",
-			"flair": "&6❂",
+			"flair": "&6✪ &r",
+			"name_color": "&7",
 			"web_display": true,
 			"staff": false
 		},
 		{
 			"id": "d4",
 			"name": "Diamond Plan",
-			"flair": "&b❂",
+			"flair": "&b✪ &r",
+			"name_color": "&7",
 			"web_display": true,
 			"staff": false
 		},
 		{
 			"id": "famous",
 			"name": "Famous",
-			"flair": "&d❋",
+			"flair": "&d❂ &r",
+			"name_color": "&7",
 			"web_display": true,
 			"staff": false,
 			"parent": "d4"
 		},
 		{
 			"id": "bt",
-			"name": "Build Team",
-			"flair": "&9❖",
+			"name": "Builder",
+			"flair": "&2&lBUILD &r",
+			"name_color": "&2",
 			"web_display": true,
 			"staff": true,
 			"parent": "d4"
@@ -64,7 +71,8 @@
 		{
 			"id": "mod",
 		  	"name": "Moderator",
-			"flair": "&e❖",
+			"flair": "&e&lMOD &r",
+			"name_color": "&e",
 			"web_display": true,
 			"staff": true,
 			"parent": "bt",
@@ -112,7 +120,8 @@
 		{
 			"id": "srmod",
 			"name": "Senior Moderator",
-			"flair": "&6❖",
+			"flair": "&6&lSR.MOD &r",
+			"name_color": "&6",
 			"web_display": true,
 			"staff": true,
 			"parent": "mod",
@@ -123,7 +132,8 @@
 		{
 			"id": "admin",
 			"name": "Administrator",
-			"flair": "&c❖",
+			"flair": "&c&lADMIN &r",
+			"name_color": "&c",
 			"web_display": true,
 			"staff": true,
 			"parent": "srmod",
