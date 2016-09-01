@@ -19,6 +19,7 @@
 			"flair": "&a❂",
 			"web_display": true,
 			"staff": false,
+			"parent": "default",
 			"permissions": [
 				"cardinal.join.pick",
 				"lobby.elytra"
@@ -29,21 +30,24 @@
 			"name": "Redstone Plan",
 			"flair": "&c❂",
 			"web_display": true,
-			"staff": false
+			"staff": false,
+			"parent": "d1"
 		},
 		{
 			"id": "d3",
 			"name": "Gold Plan",
 			"flair": "&6❂",
 			"web_display": true,
-			"staff": false
+			"staff": false,
+			"parent": "d2"
 		},
 		{
 			"id": "d4",
 			"name": "Diamond Plan",
 			"flair": "&b❂",
 			"web_display": true,
-			"staff": false
+			"staff": false,
+			"parent": "d3"
 		},
 		{
 			"id": "famous",
