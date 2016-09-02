@@ -28,7 +28,7 @@
 		{
 			"id": "d2",
 			"name": "Redstone Plan",
-			"flair": "&c✪ ",
+			"flair": "&c✪✪ ",
 			"web_display": true,
 			"staff": false,
 			"parent": "d1"
@@ -36,7 +36,7 @@
 		{
 			"id": "d3",
 			"name": "Gold Plan",
-			"flair": "&6✪ ",
+			"flair": "&6✪✪✪ ",
 			"web_display": true,
 			"staff": false,
 			"parent": "d2"
@@ -44,7 +44,7 @@
 		{
 			"id": "d4",
 			"name": "Diamond Plan",
-			"flair": "&b✪ ",
+			"flair": "&b✪✪✪✪ ",
 			"web_display": true,
 			"staff": false,
 			"parent": "d3"
