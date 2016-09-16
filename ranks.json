@@ -52,7 +52,7 @@
 		{
 			"id": "heart",
 			"name": "❤",
-			"flair": "&c❤",
+			"flair": "&4❤ ",
 			"web_display": true,
 			"staff": false,
 			"parent": "d4"
