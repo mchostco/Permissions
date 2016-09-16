@@ -66,14 +66,6 @@
 			"parent": "d4"
 		},
 		{
-			"id": "bt",
-			"name": "Build Team",
-			"flair": "&2&lBT ",
-			"web_display": true,
-			"staff": true,
-			"parent": "d4"
-		},
-		{
 			"id": "staff",
 		  	"name": "staff",
 			"flair": "",
