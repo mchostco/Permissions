@@ -50,6 +50,14 @@
 			"parent": "d3"
 		},
 		{
+			"id": "heart",
+			"name": "❤",
+			"flair": "&c❤",
+			"web_display": true,
+			"staff": false,
+			"parent": "d4"
+		},
+		{
 			"id": "famous",
 			"name": "Famous",
 			"flair": "&d❋ ",
@@ -66,12 +74,12 @@
 			"parent": "d4"
 		},
 		{
-			"id": "mod",
-		  	"name": "Moderator",
-			"flair": "&e&lMOD ",
-			"web_display": true,
+			"id": "staff",
+		  	"name": "staff",
+			"flair": "",
+			"web_display": false,
 			"staff": true,
-			"parent": "bt",
+			"parent": "d4",
 			"permissions": [
 				"punish.menu",
 				"lobby.setspawn",
@@ -116,23 +124,26 @@
 			]
 		},
 		{
-			"id": "srmod",
-			"name": "Senior Moderator",
-			"flair": "&6&LSR.MOD ",
-			"web_display": true,
-			"staff": true,
-			"parent": "mod",
-			"permissions": [
-				"bukkit.command.*"
-			]
-		},
-		{
 			"id": "admin",
 			"name": "Administrator",
 			"flair": "&c&lADMIN ",
 			"web_display": true,
 			"staff": true,
-			"parent": "srmod",
+			"parent": "staff",
+			"permissions": [
+				"bukkit.command.*",
+				"minecraft.command.*",
+				"bungeecord.command.*"
+				"cloud.checkip"
+			]
+		},
+		{
+			"id": "owner",
+			"name": "Administrator",
+			"flair": "&c&lADMIN ",
+			"web_display": true,
+			"staff": true,
+			"parent": "admin",
 			"permissions": [
 				"bukkit.command.*",
 				"minecraft.command.*",
