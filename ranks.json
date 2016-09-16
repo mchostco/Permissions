@@ -15,7 +15,7 @@
 		},
 		{
 			"id": "d1",
-			"name": "Grass Plan",
+			"name": "Tier 1",
 			"flair": "&a✪ ",
 			"web_display": true,
 			"staff": false,
@@ -27,7 +27,7 @@
 		},
 		{
 			"id": "d2",
-			"name": "Redstone Plan",
+			"name": "Tier 2",
 			"flair": "&c✪✪ ",
 			"web_display": true,
 			"staff": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"id": "d3",
-			"name": "Gold Plan",
+			"name": "Tier 3",
 			"flair": "&6✪✪✪ ",
 			"web_display": true,
 			"staff": false,
@@ -43,7 +43,7 @@
 		},
 		{
 			"id": "d4",
-			"name": "Diamond Plan",
+			"name": "Tier 4",
 			"flair": "&b✪✪✪✪ ",
 			"web_display": true,
 			"staff": false,
