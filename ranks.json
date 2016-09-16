@@ -133,7 +133,7 @@
 			"permissions": [
 				"bukkit.command.*",
 				"minecraft.command.*",
-				"bungeecord.command.*"
+				"bungeecord.command.*",
 				"cloud.checkip"
 			]
 		},
