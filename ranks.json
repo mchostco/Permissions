@@ -14,6 +14,26 @@
 			]
 		},
 		{
+			"id": "vip",
+			"name": "VIP",
+			"flair": "&a[VIP] ",
+			"web_display": true,
+			"staff": false,
+			"parent": "default",
+			"permissions": [
+				"cardinal.join.pick",
+				"lobby.elytra"
+			]
+		},
+		{
+			"id": "pro",
+			"name": "PRO",
+			"flair": "&b[PRO] ",
+			"web_display": true,
+			"staff": false,
+			"parent": "vip"
+		},
+		{
 			"id": "d1",
 			"name": "Tier 1",
 			"flair": "&a✪ ",
@@ -60,7 +80,7 @@
 		{
 			"id": "famous",
 			"name": "Famous",
-			"flair": "&d❋ ",
+			"flair": "&d[FAMOUS] ",
 			"web_display": true,
 			"staff": false,
 			"parent": "d4"
@@ -68,7 +88,7 @@
 		{
 			"id": "staff",
 		  	"name": "staff",
-			"flair": "",
+			"flair": "&9[STAFF] ",
 			"web_display": false,
 			"staff": true,
 			"parent": "d4",
@@ -118,7 +138,7 @@
 		{
 			"id": "admin",
 			"name": "Administrator",
-			"flair": "&c&lADMIN ",
+			"flair": "&c[ADMIN] ",
 			"web_display": true,
 			"staff": true,
 			"parent": "staff",
@@ -132,7 +152,7 @@
 		{
 			"id": "owner",
 			"name": "Administrator",
-			"flair": "&c&lADMIN ",
+			"flair": "&c[ADMIN] ",
 			"web_display": true,
 			"staff": true,
 			"parent": "admin",
