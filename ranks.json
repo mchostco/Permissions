@@ -3,7 +3,7 @@
 		{
 			"id": "default",
 			"name": "default",
-			"flair": "",
+			"flair": "&7",
 			"web_display": false,
 			"staff": false,
 			"permissions": [
