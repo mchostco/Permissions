@@ -36,7 +36,7 @@
 		{
 			"id": "d1",
 			"name": "Tier 1",
-			"flair": "&a✪ ",
+			"flair": "",
 			"web_display": true,
 			"staff": false,
 			"parent": "default",
@@ -48,7 +48,7 @@
 		{
 			"id": "d2",
 			"name": "Tier 2",
-			"flair": "&c✪✪ ",
+			"flair": "",
 			"web_display": true,
 			"staff": false,
 			"parent": "d1"
@@ -56,7 +56,7 @@
 		{
 			"id": "d3",
 			"name": "Tier 3",
-			"flair": "&6✪✪✪ ",
+			"flair": "",
 			"web_display": true,
 			"staff": false,
 			"parent": "d2"
@@ -64,7 +64,7 @@
 		{
 			"id": "d4",
 			"name": "Tier 4",
-			"flair": "&b✪✪✪✪ ",
+			"flair": "",
 			"web_display": true,
 			"staff": false,
 			"parent": "d3"
