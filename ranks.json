@@ -88,7 +88,7 @@
 		{
 			"id": "staff",
 		  	"name": "staff",
-			"flair": "&9[STAFF] ",
+			"flair": "&e[STAFF] ",
 			"web_display": false,
 			"staff": true,
 			"parent": "d4",
