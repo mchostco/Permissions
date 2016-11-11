@@ -88,7 +88,7 @@
 		{
 			"id": "staff",
 		  	"name": "staff",
-			"flair": "&e[STAFF] ",
+			"flair": "&e[MOD] ",
 			"web_display": false,
 			"staff": true,
 			"parent": "d4",
