@@ -34,6 +34,17 @@
 			"parent": "vip"
 		},
 		{
+			"id": "legend",
+			"name": "PRO",
+			"flair": "&6[LEGEND] ",
+			"web_display": true,
+			"staff": false,
+			"parent": "pro",
+			"permissions" [
+				"lobby.punch"
+			]
+		},
+		{
 			"id": "d1",
 			"name": "Tier 1",
 			"flair": "",
