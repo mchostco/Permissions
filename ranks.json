@@ -40,7 +40,7 @@
 			"web_display": true,
 			"staff": false,
 			"parent": "pro",
-			"permissions" [
+			"permissions": [
 				"lobby.punch"
 			]
 		},
