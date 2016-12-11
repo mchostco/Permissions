@@ -91,7 +91,7 @@
 			"flair": "&4❤ ",
 			"web_display": true,
 			"staff": false,
-			"parent": "d4"
+			"parent": "legend"
 		},
 		{
 			"id": "famous",
@@ -99,7 +99,7 @@
 			"flair": "&d[FAMOUS] ",
 			"web_display": true,
 			"staff": false,
-			"parent": "d4"
+			"parent": "legend"
 		},
 		{
 			"id": "staff",
