@@ -22,7 +22,8 @@
 			"parent": "default",
 			"permissions": [
 				"cardinal.join.pick",
-				"lobby.elytra"
+				"lobby.elytra",
+				"cloud.rank.vip"
 			]
 		},
 		{
@@ -31,7 +32,10 @@
 			"flair": "&b[PRO] ",
 			"web_display": true,
 			"staff": false,
-			"parent": "vip"
+			"parent": "vip",
+			"permissions": [
+				"cloud.rank.pro"	
+			]
 		},
 		{
 			"id": "legend",
@@ -41,7 +45,8 @@
 			"staff": false,
 			"parent": "pro",
 			"permissions": [
-				"lobby.punch"
+				"lobby.punch",
+				"cloud.rank.pro"
 			]
 		},
 		{
