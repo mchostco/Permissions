@@ -39,14 +39,14 @@
 		},
 		{
 			"id": "legend",
-			"name": "PRO",
+			"name": "LEGEND",
 			"flair": "&6[LEGEND] ",
 			"web_display": true,
 			"staff": false,
 			"parent": "pro",
 			"permissions": [
 				"lobby.punch",
-				"cloud.rank.pro"
+				"cloud.rank.legend"
 			]
 		},
 		{
