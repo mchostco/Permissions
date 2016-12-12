@@ -162,20 +162,7 @@
 				"bukkit.command.*",
 				"minecraft.command.*",
 				"bungeecord.command.*",
-				"cloud.checkip"
-			]
-		},
-		{
-			"id": "owner",
-			"name": "Administrator",
-			"flair": "&c[ADMIN] ",
-			"web_display": true,
-			"staff": true,
-			"parent": "admin",
-			"permissions": [
-				"bukkit.command.*",
-				"minecraft.command.*",
-				"bungeecord.command.*",
+				"cloud.checkip",
 				"pservers.set",
 				"cloud.checkip",
 				"core.setrank",
