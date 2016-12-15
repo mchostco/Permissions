@@ -102,9 +102,9 @@
 			"parent": "legend"
 		},
 		{
-			"id": "staff",
-		  	"name": "staff",
-			"flair": "&e[MOD] ",
+			"id": "jrstaff",
+		  	"name": "jrstaff",
+			"flair": "&e[JR.MOD] ",
 			"web_display": false,
 			"staff": true,
 			"parent": "legend",
@@ -152,12 +152,28 @@
 			]
 		},
 		{
+			"id": "staff",
+		  	"name": "staff",
+			"flair": "&e[MOD] ",
+			"web_display": false,
+			"staff": true,
+			"parent": "jrstaff"
+		},
+		{
+			"id": "srstaff",
+		  	"name": "staff",
+			"flair": "&e[SR.MOD] ",
+			"web_display": false,
+			"staff": true,
+			"parent": "staff"
+		},
+		{
 			"id": "admin",
 			"name": "Administrator",
 			"flair": "&c[ADMIN] ",
 			"web_display": true,
 			"staff": true,
-			"parent": "staff",
+			"parent": "srstaff",
 			"permissions": [
 				"bukkit.command.*",
 				"minecraft.command.*",
