@@ -175,14 +175,15 @@
 			"staff": true,
 			"parent": "srstaff",
 			"permissions": [
-				"bukkit.command.*",
-				"minecraft.command.*",
 				"bungeecord.command.*",
 				"cloud.checkip",
 				"pservers.set",
 				"cloud.checkip",
 				"core.setrank",
 				"cloud.setrank",
+				"minecraft.command.stop",
+				"bukkit.command.stop",
+				"bukkit.command.timings",
 				"NoRestartServerManager.Reload"
 			]
 		}
