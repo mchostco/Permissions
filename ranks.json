@@ -165,7 +165,10 @@
 			"flair": "&e[SR.MOD] ",
 			"web_display": false,
 			"staff": true,
-			"parent": "staff"
+			"parent": "staff",
+			"permissions": [
+				"cloud.togglechat.bypass"
+			]
 		},
 		{
 			"id": "admin",
@@ -181,6 +184,7 @@
 				"cloud.checkip",
 				"core.setrank",
 				"cloud.setrank",
+				"cloud.togglechat",
 				"minecraft.command.stop",
 				"bukkit.command.stop",
 				"bukkit.command.timings",
