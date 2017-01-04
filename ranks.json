@@ -188,6 +188,7 @@
 				"minecraft.command.stop",
 				"bukkit.command.stop",
 				"bukkit.command.timings",
+				"bukkit.command.kill",
 				"NoRestartServerManager.Reload"
 			]
 		}
