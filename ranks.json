@@ -148,7 +148,8 @@
 				"minecraft.command.gamerule",
 				"bukkit.command.gamerule",
 				"minecraft.command.toggledownfall",
-				"bukkit.command.toggledownfall"
+				"bukkit.command.toggledownfall",
+				"cloud.togglechat.bypass"
 			]
 		},
 		{
@@ -166,9 +167,6 @@
 			"web_display": false,
 			"staff": true,
 			"parent": "staff",
-			"permissions": [
-				"cloud.togglechat.bypass"
-			]
 		},
 		{
 			"id": "admin",
