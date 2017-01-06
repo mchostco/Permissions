@@ -158,7 +158,10 @@
 			"flair": "&e[MOD] ",
 			"web_display": false,
 			"staff": true,
-			"parent": "jrstaff"
+			"parent": "jrstaff",
+			"permissions": [
+				"cloud.togglechat.bypass"	
+			]
 		},
 		{
 			"id": "srstaff",
