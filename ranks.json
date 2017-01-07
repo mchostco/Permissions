@@ -169,7 +169,7 @@
 			"flair": "&e[SR.MOD] ",
 			"web_display": false,
 			"staff": true,
-			"parent": "staff",
+			"parent": "staff"
 		},
 		{
 			"id": "admin",
