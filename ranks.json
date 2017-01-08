@@ -186,6 +186,7 @@
 				"cloud.checkip",
 				"pservers.set",
 				"cloud.checkip",
+				"cloud.serverinfo",
 				"core.setrank",
 				"cloud.setrank",
 				"minecraft.command.stop",
