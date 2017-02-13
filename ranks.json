@@ -102,6 +102,13 @@
 			"parent": "legend"
 		},
 		{
+			"id": "bt",
+			"name": "BT",
+			"flair": "&6[BT] ",
+			"web_display": true,
+			"staff": false
+		},
+		{
 			"id": "jrstaff",
 		  	"name": "jrstaff",
 			"flair": "&e[JR.MOD] ",
