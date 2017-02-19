@@ -50,6 +50,18 @@
 			]
 		},
 		{
+			"id": "patron",
+			"name": "PATRON",
+			"flair": "&2[PATRON] ",
+			"web_display": true,
+			"staff": false,
+			"parent": "legend",
+			"permissions": [
+				"lobby.punch",
+				"cloud.rank.legend"
+			]
+		},
+		{
 			"id": "d1",
 			"name": "Tier 1",
 			"flair": "",
