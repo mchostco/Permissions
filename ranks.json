@@ -52,7 +52,7 @@
 		{
 			"id": "patron",
 			"name": "PATRON",
-			"flair": "&2[PATRON] ",
+			"flair": "&9[PATRON] ",
 			"web_display": true,
 			"staff": false,
 			"parent": "legend",
