@@ -156,7 +156,6 @@
 				"AAC.unban",
 				"minecraft.command.teleport",
 				"bukkit.command.teleport",
-				"bungeecord.command.ip",
 				"worldguard.*",
 				"minecraft.command.time",
 				"minecraft.command.tp",
@@ -188,7 +187,9 @@
 			"staff": true,
 			"parent": "staff",
 			"permissions": [
-				"cloud.togglechat"	
+				"cloud.togglechat",
+				"bungeecord.command.ip",
+				"bungeecord.command.alert"
 			]
 		},
 		{
