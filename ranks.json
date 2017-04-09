@@ -188,6 +188,7 @@
 			"parent": "staff",
 			"permissions": [
 				"cloud.togglechat",
+				"cloud.hidepunishments",
 				"bungeecord.command.ip",
 				"bungeecord.command.alert"
 			]
