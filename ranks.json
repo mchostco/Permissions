@@ -191,7 +191,8 @@
 				"cloud.togglechat",
 				"cloud.hidepunishments",
 				"bungeecord.command.ip",
-				"bungeecord.command.alert"
+				"bungeecord.command.alert",
+				"bukkit.command.gamemode"
 			]
 		},
 		{
