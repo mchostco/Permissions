@@ -165,7 +165,8 @@
 				"bukkit.command.gamerule",
 				"minecraft.command.toggledownfall",
 				"bukkit.command.toggledownfall",
-				"cloud.togglechat.bypass"
+				"cloud.togglechat.bypass",
+				"chatfilter.bypass"
 			]
 		},
 		{
