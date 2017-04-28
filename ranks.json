@@ -98,6 +98,14 @@
 			"parent": "d3"
 		},
 		{
+			"id": "d5",
+			"name": "Tier 5",
+			"flair": "",
+			"web_display": true,
+			"staff": false,
+			"parent": "d4"
+		},
+		{
 			"id": "heart",
 			"name": "❤",
 			"flair": "&4❤ ",
