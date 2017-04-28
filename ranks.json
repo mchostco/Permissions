@@ -190,6 +190,7 @@
 			"permissions": [
 				"cloud.togglechat",
 				"cloud.hidepunishments",
+				"cloud.servername",
 				"bungeecord.command.ip",
 				"bungeecord.command.alert",
 				"bukkit.command.gamemode"
