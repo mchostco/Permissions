@@ -185,7 +185,8 @@
 			"staff": true,
 			"parent": "jrstaff",
 			"permissions": [
-				"cloud.togglechat.bypass"	
+				"cloud.togglechat.bypass",
+				"cloud.check-ip"
 			]
 		},
 		{
@@ -213,7 +214,6 @@
 			"parent": "srstaff",
 			"permissions": [
 				"bungeecord.command.*",
-				"cloud.checkip",
 				"pservers.set",
 				"cloud.checkip",
 				"cloud.serverinfo",
