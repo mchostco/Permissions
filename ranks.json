@@ -185,7 +185,7 @@
 			"staff": true,
 			"parent": "jrstaff",
 			"permissions": [
-				"cloud.togglechat.bypass",
+				"cloud.serverinfo",
 				"cloud.check-ip"
 			]
 		},
@@ -215,8 +215,6 @@
 			"permissions": [
 				"bungeecord.command.*",
 				"pservers.set",
-				"cloud.checkip",
-				"cloud.serverinfo",
 				"core.setrank",
 				"cloud.setrank",
 				"minecraft.command.stop",
